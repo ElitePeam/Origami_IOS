@@ -1,0 +1,315 @@
+/* 
+  Localizable.strings
+  NewTest
+
+  Created by Todsaphorn Bualan on 15/6/2563 BE.
+  Copyright © 2563 Todsaphorn Bualan. All rights reserved.
+*/
+
+/*---- Login ----*/
+"new_ver_avail" = "New Version Available";
+"new_ver_avail_txt" = "New version of Origami life is available, Please update to version";
+"version" = "Version";
+
+/*---- Time Module* ----*/
+"title_time" = "Time";
+"in" = "In";
+"out" = "Out";
+"switch_branch" = "Switch Branch";
+"switch_activity" = "Switch Activity";
+"cant_stamp_area" = "Can't stamp, You're not in area.";
+"stamp_success" = "Your time stamp success.";
+"stamp_fail" = "Fail time stamp.";
+"no_activity" = "No activity name";
+"no_customer" = "No cutomer name";
+"topic" = "Topic";
+"customer" = "Customer";
+"start" = "Start";
+"end" = "End";
+"invaild_type" = "Request type invaild.";
+"success_time_stamp" = "Time stamp activity success.";
+"fail_time_stamp" = "Fail to stamp activity.";
+"wrong_location" = "Your current location went wrong. Please check your current location again.";
+
+/*---- Request OT Module* ----*/
+"title_request_ot" = "Request OT";
+"request_ot_datail" = "Request OT Detail";
+"name" = "Name";
+"start_request_ot" = "Start date";
+"end_request_ot" = "End date";
+"reason" = "Reason";
+"me" = "Me";
+"pending" = "Pending";
+"approve" = "Approved";
+"not_approve" = "Not Approved";
+"need_info" = "Need Info";
+"wait_delete" = "Wait Approval Delete";
+"no_status" = "No status";
+"add" = "ADD";
+"update" = "UPDATE";
+"later" = "LATER";
+"add_rq_ot_success" = "Request OT success.";
+"add_rq_ot_fail" = "Request OT fail.";
+"update_rq_ot_success" = "Update request OT success.";
+"update_rq_ot_fail" = "Update request OT fail.";
+"delete_rq_ot_success" = "Delete request OT success.";
+"delete_rq_ot_fail" = "Delete request OT fail.";
+"select_start_time" = "Please select start date and time.";
+"select_end_time" = "Please select end date and time.";
+"insert_rq_reason" = "Please insert your reason for request OT.";
+"wrong_time_format" = "Wrong date and time format.";
+
+/*---- Work Module* ----*/
+"title_work" = "Work";
+"rq_for_float" = "Request Floating";
+"float_leave" = "Floating Leave";
+"used" = "Used";
+"remain" = "Remain";
+"total" = "Total";
+"leave" = "Leave";
+"overall" = "Overall";
+"add_work" = "Add Work";
+"leave_type" = "Leave type";
+"leave_date" = "Leave date";
+"without_pay" = "Leave without pay";
+"note" = "Note";
+"apply" = "Apply";
+"add_leave_success" = "Add leave success.";
+"warn_leave_type" = "Please select leave type.";
+"warn_leave_start" = "Please select start date leave.";
+"warn_leave_end" = "Please select end date leave.";
+"warn_reason" = "Please input your reason.";
+"warn_before_day" = "You need to apply leave form before";
+"warn_past_day" = "You can apply only past";
+"day" = "day.";
+"check_work_time" = "Please check your work time.";
+"insert_success" = "Save data complete.";
+"permission_fail" = "Save data permission incomplete.";
+"insert_fail" = "Save data incomplete.";
+"not_enough_float" = "Not enough float time availiable.";
+"limit_time_fail" = "You need apply before limit time.";
+"before_day_fail" = "You can't apply leave form. Please check leave date request.";
+"invaild_type" = "Invaild leave type.";
+"success_update_float_request" = "Update float request success.";
+"success_update_float_leave" = "Update float leave success.";
+"success_update_normal_leave" = "Update work leave success.";
+"fail_update_float_request" = "Fail to update float request.";
+"fail_update_float_leave" = "Fail to update float leave.";
+"fail_update_normal_leave" = "Fail to update work leave.";
+"success_delete_float_request" = "Delete float request success.";
+"success_delete_float_leave" = "Delete float leave success.";
+"success_delete_normal_leave" = "Delete leave work success.";
+"fail_delete_float_request" = "Fail to delete float request.";
+"fail_delete_float_leave" = "Fail to delete float leave.";
+"fail_delete_normal_leave" = "Fail to delete work leave.";
+"waiting_delete" = "Waiting delete";
+
+/*---- Need Module* ----*/
+"title_need" = "Need";
+"baht" = "Baht";
+"check_approve" = "Check Approve";
+"edit_need" = "Edit Needs";
+"delete_need" = "Delete Needs";
+"person" = "Person";
+"status" = "Status";
+"date" = "Date";
+"need_detail" = "Need Detail";
+"type" = "Type";
+"doc_type" = "Document type";
+"project" = "Project";
+"department" = "Department";
+"subject" = "Subject";
+"next" = "Next";
+"no_project" = "No project";
+"warn_need_date" = "Please select date.";
+"warn_need_type" = "Please select document type.";
+"warn_need_typerq" = "Please select type.";
+"warn_need_project" = "Please select project.";
+"warn_need_depart"  = "Please select department.";
+"warn_need_subject" = "Please select subject.";
+"warn_need_reason" = "Please input reason.";
+"need_type" = "Need type";
+"detail" = "Detail";
+"price" = "Price";
+"quantity" = "Quantity";
+"unit" = "Unit";
+"total_budget" = "Total budget";
+"add_photo" = "Add photo";
+"done" = "Done";
+"delete_first_item" = "You can't delete first item.";
+"select_need_type" = "You need to select need type before select or add next item.";
+"preview_image" = "Preview Image";
+
+/*---- Approve Module* ----*/
+"title_approve" = "Approval";
+"doc_no" = "Document No.";
+"rq_user" = "Request user";
+"total_hr" = "Total (Hr.)";
+"approve_by" = "Approve by";
+"detail_work" = "Work Detail";
+"detail_need" = "Need Detail";
+"success_approve_float" = "Approve floating success.";
+"fail_approve_float" = "Fail to approve floating.";
+/*---- Account Module* ----*/
+"title_account" = "Account";
+
+/*---- Project Module* ----*/
+"title_project" = "Project";
+
+/*---- Contact Module* ----*/
+"title_contact" = "Contact";
+
+/*---- Activity Module* ----*/
+"title_activity" = "Activity";
+"Usubject" = "SUBJECT";
+"Utype" = "TYPE";
+"Uproject" = "PROJECT";
+"Ucontact" = "CONTACT";
+"Uaccount" = "ACCOUNT";
+"Uplace" = "PLACE";
+"Uactivity_status" = "ACTIVITY STATUS";
+"Uactivity_location" = "ACTIVITY LOCATION";
+"Upriority" = "PRIORITY";
+"Ulocation" = "LOCATION";
+"Ucost" = "COST";
+"Uother_contact" = "OTHER CONTACT";
+"Uphoto_file" = "PHOTO";
+"Uskoop" = "SKOOP";
+"skoop" = "Skoop";
+"upload" = "Upload";
+"photo" = "Photo";
+"upload_photo" = "Upload Photo";
+"add_activity" = "Add Activity";
+"edit_activity" = "Edit Activity";
+"close_activity" = "Close Activity";
+"delete_activity" = "Delete Activity";
+"in_door" = "Indoor";
+"out_door" = "Outdoor";
+"contact" = "Contact";
+"account" = "Account";
+"cost" = "Cost";
+"other_contact" = "Other Contact";
+"Uother_contact" = "OTHER CONTACT";
+"add_other_contact" = "Add Other Contact";
+"activity_location" = "ACTIVITY LOCATION";
+"location_name" = "Location name";
+"subject_required" = "Subject required.";
+"description_required" = "Description required.";
+"type_required" = "Type required.";
+"project_required" = "Project required.";
+"contact_required" = "Contact required.";
+"success_process" = "Successful transaction.";
+"fail_process" = "Failed to complete the transaction.";
+"save" = "Save";
+"require_field" = "(require)";
+"confirm_delete" = "Confirm delete";
+"close_success" = "Close activity success.";
+"close_fail" = "Fail to close activity.";
+"close_overlap" = "Fail to close activity. Close time was overlap.";
+"close_incomplete" = "Fail to close activity. Incomplete data.";
+"start_date" = "Start date";
+"end_date" = "End date";
+"start_time" = "Start time";
+"end_time" = "End time";
+"priority" = "Priority";
+"place" = "Place";
+"signature" = "Signature";
+"tel" = "Tel";
+
+
+/*---- Setting Module* ----*/
+"title_setting" = "Setting";
+"languages" = "Languages";
+"thai" = "Thai";
+"english" = "English";
+
+/*---- Login Page ----*/
+"button_login" = "Login";
+"place_email" = "E-Mail";
+"place_pass" = "Password";
+"title_logout" = "Logout";
+
+/*---- Alert Box ----*/
+"success" = "Success";
+"warning" = "Warning";
+"fail" = "Fail";
+"close" = "Close";
+"ok" = "OK";
+"delete" = "Delete";
+"cancle" = "Cancel";
+"back" = "Back";
+"choose_photo" = "Choose a photo";
+"new_photo" = "Take a new photo";
+"require_user_pass" = "Require username and password.";
+"user_not_found" = "User not found, Please check your username and password again.";
+
+/*---- Account Module ----*/
+"account_detail" = "Account Detail";
+"new_account" = "New Account";
+"edit_account" = "Edit Account";
+"preview_map" = "Preview Location";
+"Umobile" = "MOBILE";
+"Uwork" = "WORK";
+"Ue_mail" = "E-MAIL";
+"Ufax" = "FAX";
+"Uowner" = "OWNER";
+"Uaddress" = "ADDRESS";
+"Udescription" = "DESCRIPTION";
+"Ucompany_size" = "COMPANY SIZE";
+"Uregistration" = "REGISTRATION";
+"Uregistered_capital" = "REGISTERED CAPITAL";
+"Unumber_staff" = "NUMBER OF STAFF";
+"Upayment" = "PAYMENT TERM";
+"Utax_id" = "TAX ID";
+"Uold_code" = "OLD CODE";
+"Uship_to" = "SHIP TO";
+"Udoc_address" = "DOCUMENT ADDRESS";
+"Umap_location" = "MAP LOCATION";
+"more_info" = "More information";
+"add_logo" = "Add logo";
+"add_map" = "Add map marker";
+"edit_map" = "Edit map marker";
+"select_map_image" = "Choose map location image";
+"PHcom_en" = "Company Name (EN)";
+"PHcom_th" = "Company Name (TH)";
+"PHgroup" = "Group";
+"PHcode" = "Code";
+"PHmobile" = "Mobile Number";
+"PHwork" = "Work Number";
+"PHemail" = "E-Mail";
+"PHno" = "No";
+"PHlane" = "Lane";
+"PHbuilding" = "Building";
+"PHroad" = "Road";
+"PHdistrict" = "District";
+"PHsubdistrict" = "Sub District";
+"PHprovince" = "Province";
+"PHpost_code" = "Post Code";
+"PHcountry" = "Country";
+"search_place" = "Search for places";
+"mark_place" = "Mark place";
+"pin" = "Pin";
+"fax" = "Fax";
+"com_size" = "Company Size";
+"regist" = "Registration";
+"regist_cap" = "Registered Capital";
+"number_staff" = "Number of staff";
+"payment_term" = "Payment Term";
+"tax_id" = "Tax ID";
+"old_code" = "Old Code";
+"description" = "Description";
+"ship_to" = "Ship to";
+"doc_address" = "Document Address";
+"search_ship" = "Search ship to";
+"search_doc" = "Search document address";
+"choose_map_image" = "Choose map location image";
+"add_account_success" = "Add account success.";
+"update_account_success" = "Update account success.";
+"delete_account_success" = "Delete account success.";
+"check_comp_en" = "- The company name (en) is required";
+"check_comp_th" = "- The company name (th) is required";
+"check_work" = "- The tel is require";
+"check_regist" = "- The registration is require";
+"check_type" = "- The type is require";
+"check_group" = "- The group is require";
+

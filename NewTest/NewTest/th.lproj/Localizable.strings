@@ -1,0 +1,315 @@
+/* 
+  Localizable.strings
+  NewTest
+
+  Created by Todsaphorn Bualan on 15/6/2563 BE.
+  Copyright © 2563 Todsaphorn Bualan. All rights reserved.
+*/
+
+/*---- Login ----*/
+"new_ver_avail" = "มีเวอร์ชั่นใหม่";
+"new_ver_avail_txt" = "เวอร์ชั่นใหม่ของ Origami life พร้อมให้ใช้แล้วโปรดอัพเดตเป็นเวอร์ชัน";
+"version" = "เวอร์ชั่น";
+
+/*---- Time Module* ----*/
+"title_time" = "เวลา";
+"in" = "เข้า";
+"out" = "ออก";
+"switch_branch" = "เลือกสาขา";
+"switch_activity" = "เลือกกิจกรรม";
+"cant_stamp_area" = "คุณไม่สามารถบันทึกเวลาได้ เนื่องจากอยู่นอกพื้นที่ของสาขา";
+"stamp_success" = "บันทึกเวลาสำเร็จ";
+"stamp_fail" = "บันทึกเวลาผิดพลาด";
+"no_activity" = "ไม่มีข้อมูลกิจกรรม";
+"no_customer" = "ไม่มีข้อมูลลูกค้า";
+"topic" = "หัวข้อ";
+"customer" = "ลูกค้า";
+"start" = "เริ่มต้น";
+"end" = "สิ้นสุด";
+"invaild_type" = "การทำประเภทรายการผิดพลาด";
+"success_time_stamp" = "บันทึกเวลากิจกรรมสำเร็จ";
+"fail_time_stamp" = "บันทึกเวลากิจกรรมไม่สำเร็จ";
+"wrong_location" = "ตำแหน่งปัจจุบันของคุณผิดพลาด กรุณาตรวจสอบตำแหน่งปัจจุบันของคุณอีกครั้ง";
+
+/*---- Request OT Module* ----*/
+"title_request_ot" = "ขอล่วงเวลา";
+"request_ot_datail" = "รายละเอียดขอล่วงเวลา";
+"name" = "ชื่อ";
+"start_request_ot" = "วันที่เริ่มต้น";
+"end_request_ot" = "วันที่สิ้นสุด";
+"reason" = "เหตุผล";
+"me" = "ฉัน";
+"pending" = "รอการอนุมัติ";
+"approve" = "อนุมัติ";
+"not_approve" = "ไม่อนุมัติ";
+"need_info" = "ต้องการข้อมูลเพิ่มเติม";
+"wait_delete" = "รอการลบ";
+"no_status" = "ไม่มีสถานะ";
+"add" = "เพิ่ม";
+"update" = "อัพเดต";
+"later" = "ภายหลัง";
+"add_rq_ot_success" = "ทำการขอล่วงเวลาสำเร็จ";
+"add_rq_ot_fail" = "ทำการขอล่วงเวลาไม่สำเร็จ";
+"update_rq_ot_success" = "อัพเดตการขอล่วงเวลาสำเร็จ";
+"update_rq_ot_fail" = "อัพเดตการขอล่วงเวลาไม่สำเร็จ";
+"delete_rq_ot_success" = "ลบการขอล่วงเวลาสำเร็จ";
+"delete_rq_ot_fail" = "ลบการขอล่วงเวลาไม่สำเร็จ";
+"select_start_time" = "เลือกวันที่เริ่มต้นขอล่วงเวลาก่อนทำรายการ";
+"select_end_time" = "เลือกวันที่สิ้นสุดขอล่วงเวลาก่อนทำรายการ";
+"insert_rq_reason" = "ใส่เหตุผลในการขอล่วงเวลาก่อนทำรายการ";
+"wrong_time_format" = "รูปแบบวันที่ผิดพลาด กรุณาตรวจสอบอีกครั้ง";
+
+/*---- Work Module* ----*/
+"title_work" = "ทำงาน";
+"rq_for_float" = "ขอทำงานทดแทน";
+"float_leave" = "ขอลาทดแทน";
+"used" = "ใช้ไป";
+"remain" = "คงเหลือ";
+"total" = "ทั้งหมด";
+"leave" = "การลา";
+"overall" = "ภาพรวม";
+"add_work" = "เพิ่มการลา";
+"leave_type" = "ประเภทการลา";
+"leave_date" = "วันที่ลา";
+"without_pay" = "ลาโดยไม่จ่ายเงิน";
+"note" = "หมายเหตุ";
+"apply" = "ยืนยัน";
+"add_leave_success" = "เพิ่มการลาสำเร็จ";
+"warn_leave_type" = "กรุณาเลือกประเภทการลาก่อนทำรายการ";
+"warn_leave_start" = "กรุณาเลือกวันที่เริ่มต้นการลาก่อนทำรายการ";
+"warn_leave_end" = "กรุณาเลือกวันที่สิ้นสุดการลาก่อนทำรายการ";
+"warn_reason" = "กรุณาใส่เหตุผลของการลาก่อนทำรายการ";
+"warn_before_day" = "คุณจะต้องทำรายการล่วงหน้า";
+"warn_past_day" = "คุณสามารถทำรายการย้อนหลังได้เพียง";
+"day" = "วัน";
+"check_work_time" = "กรุณาตรวจสอบเวลาการทำงาน";
+"insert_success" = "บันทึกข้อมูลสำเร็จ";
+"permission_fail" = "บันทึกสิทธิ์ไม่สำเร็จ";
+"insert_fail" = "บันทึกข้อมูลไม่สำเร็จ";
+"not_enough_float" = "จำนวนชั่วโมงลาชดเชยไม่เพียงพอ";
+"limit_time_fail" = "จำเป็นจะต้องลาก่อนเวลาที่กำหนด";
+"before_day_fail" = "วันที่ลาไม่ตรงเงื่อนไขการลา";
+"invaild_type" = "ประเภทการลาผิดพลาด";
+"success_update_float_request" = "อัพเดทการขอทำงานทดแทนสำเร็จ";
+"success_update_float_leave" = "อัพเดทการขอลาทดแทนสำเร็จ";
+"success_update_normal_leave" = "อัพเดทการลางานสำเร็จ";
+"fail_update_float_request" = "อัพเดทการขอทำงานทดแทนไม่สำเร็จ";
+"fail_update_float_leave" = "อัพเดทการขอลาทดแทนไม่สำเร็จ";
+"fail_update_normal_leave" = "อัพเดทการลางานไม่สำเร็จ";
+"success_delete_float_request" = "ลบรายการขอทำงานทดแทนสำเร็จ";
+"success_delete_float_leave" = "ลบรายการขอลาทดแทนสำเร็จ";
+"success_delete_normal_leave" = "ลบรายการลางานสำเร็จ";
+"fail_delete_float_request" = "ลบรายการขอทำงานทดแทนไม่สำเร็จ";
+"fail_delete_float_leave" = "ลบรายการขอลาทดแทนไม่สำเร็จ";
+"fail_delete_normal_leave" = "ลบรายการลางานไม่สำเร็จ";
+"waiting_delete" = "รอการลบ";
+
+/*---- Need Module* ----*/
+"title_need" = "ต้องการ";
+"baht" = "บาท";
+"check_approve" = "ตรวจสอบสถานะ";
+"edit_need" = "แก้ไขรายการ";
+"delete_need" = "ลบรายการ";
+"person" = "ผู้อนุมัติ";
+"status" = "สถานะ";
+"date" = "วันที่อนุมัติ";
+"need_detail" = "รายละเอียดต้องการ";
+"type" = "ประเภท";
+"doc_type" = "ประเภทของเอกสาร";
+"project" = "โครงการ";
+"department" = "แผนก";
+"subject" = "ชื่อเรื่อง";
+"next" = "ถัดไป";
+"no_project" = "ไม่มีโครงการ";
+"warn_need_date" = "กรุณาเลือกวันที่";
+"warn_need_type" = "กรุณาเลือกประเภทของเอกสาร";
+"warn_need_typerq" = "กรุณาเลือกประเภท";
+"warn_need_project" = "กรุณาเลือกโครงการ";
+"warn_need_depart"  = "กรุณาเลือกแผนก";
+"warn_need_subject" = "กรุณาใส่ชื่อเรื่อง";
+"warn_need_reason" = "กรุณาใส่เหตุผลก่อนทำรายการ";
+"need_type" = "ประเภทความต้องการ";
+"detail" = "รายละเอียด";
+"price" = "ราคา";
+"quantity" = "จำนวน";
+"unit" = "หน่วย";
+"total_budget" = "งบประมาณทั้งหมด";
+"add_photo" = "เพิ่มรูปภาพ";
+"done" = "เสร็จสิ้น";
+"delete_first_item" = "คุณไม่สามารถลบรายการแรกได้";
+"select_need_type" = "คุณจำเป็นต้องเลือกประเภทความต้องการก่อนที่จะเลือกหรือเพิ่มรายการถัดไป";
+"preview_image" = "พรีวิวรูปภาพ";
+
+/*---- Approve Module* ----*/
+"title_approve" = "การอนุมัติ";
+"doc_no" = "เลขที่เอกสาร";
+"rq_user" = "ผู้ร้องขอ";
+"total_hr" = "รวมทั้งหมด(ช.ม.)";
+"approve_by" = "อนุมัติโดย";
+"detail_work" = "รายละเอียดการทำงาน";
+"detail_need" = "รายละเอียดความต้องการ";
+"success_approve_float" = "อนุมัติการลาทดแทนสำเร็จ";
+"fail_approve_float" = "อนุมัติการลาทดแทนไม่สำเร็จ";
+
+/*---- Account Module* ----*/
+"title_account" = "ลูกค้า";
+
+/*---- Project Module* ----*/
+"title_project" = "โครงการ";
+
+/*---- Contact Module* ----*/
+"title_contact" = "ติดต่อ";
+
+/*---- Activity Module* ----*/
+"title_activity" = "กิจกรรม";
+"Usubject" = "ชื่อเรื่อง";
+"Utype" = "ประเภท";
+"Uproject" = "โครงการ";
+"Ucontact" = "ผู้ติดต่อ";
+"Uaccount" = "ลูกค้า";
+"Uplace" = "สถานที่";
+"Uactivity_status" = "สถานะ";
+"Uactivity_location" = "สถานที่ตั้ง";
+"Upriority" = "ระดับสำคัญ";
+"Ulocation" = "สถานที่ตั้ง";
+"Ucost" = "มูลค่า";
+"Uother_contact" = "ผู้ติดต่ออื่นๆ";
+"Uphoto_file" = "รูปภาพ";
+"Uskoop" = "สกูป";
+"skoop" = "สกูป";
+"upload" = "อัพโหลด";
+"photo" = "รูปภาพ";
+"upload_photo" = "อัพโหลดรูปภาพ";
+"add_activity" = "เพิ่มกิจกรรม";
+"edit_activity" = "แก้ไขกิจกรรม";
+"close_activity" = "ปิดกิจกรรม";
+"delete_activity" = "ลบกิจกรรม";
+"in_door" = "ในสถานที่";
+"out_door" = "นอกสถานที่";
+"contact" = "ผู้ติดต่อ";
+"account" = "ลูกค้า";
+"cost" = "มูลค่า";
+"other_contact" = "ผู้ติดต่ออื่นๆ";
+"Uother_contact" = "ผู้ติดต่ออื่นๆ";
+"add_other_contact" = "เพิ่มผู้ติดต่ออื่นๆ";
+"activity_location" = "สถานที่ตั้งกิจกรรม";
+"location_name" = "ชื่อสถานที่ตั้ง";
+"subject_required" = "จำเป็นต้องใส่ชื่อเรื่อง";
+"description_required" = "จำเป็นต้องใส่รายละเอียด";
+"type_required" = "จำเป็นต้องเลือกประเภทของกิจกรรม";
+"project_required" = "จำเป็นต้องเลือกโครงการ";
+"contact_required" = "จำเป็นต้องเลือกผู้ติดต่อ";
+"success_process" = "ทำรายการสำเร็จ";
+"fail_process" = "ทำรายการไม่สำเร็จ";
+"save" = "บันทึก";
+"require_field" = "(โปรดระบุ)";
+"confirm_delete" = "ยืนยันการลบ";
+"close_success" = "ปิดกิจกรรมสำเร็จ";
+"close_fail" = "ปิดกิจกรรมไม่สำเร็จ กรุณาติดต่อผู้ดูแล";
+"close_overlap" = "ปิดกิจกรรมไม่สำเร็จ เนื่องจากมีการซ้อนทับของเวลาปิดกิจกรรม";
+"close_incomplete" = "ปิดกิจกรรมไม่สำเร็จ ข้อมูลไม่ครบถ้วน";
+"start_date" = "วันที่เริ่มต้น";
+"end_date" = "วันที่สิ้นสุด";
+"start_time" = "เวลาที่เริ่มต้น";
+"end_time" = "เวลาที่สิ้นสุด";
+"priority" = "ระดับสำคัญ";
+"place" = "สถานที่";
+"signature" = "ลายเซ็นต์";
+"tel" = "โทร";
+
+/*---- Setting Module* ----*/
+"title_setting" = "ตั้งค่า";
+"languages" = "ภาษา";
+"thai" = "ไทย";
+"english" = "อังกฤษ";
+
+
+/*---- Login Page ----*/
+"button_login" = "เข้าสู่ระบบ";
+"place_email" = "อีเมลล์";
+"place_pass" = "รหัสผ่าน";
+"title_logout" = "ออกจากระบบ";
+
+/*---- Alert Box ----*/
+"success" = "สำเร็จ";
+"warning" = "แจ้งเตือน";
+"fail" = "ผิดพลาด";
+"close" = "ปิด";
+"ok" = "ตกลง";
+"delete" = "ลบ";
+"cancle" = "ยกเลิก";
+"back" = "กลับ";
+"choose_photo" = "เลือกรูปภาพ";
+"new_photo" = "ถ่ายรูปภาพ";
+"user_not_found" = "ไม่พบชื่อผู้ใช้ กรุณาตรวจสอบชื่อผู้ใช้และรหัสผ่านอีกครั้ง";
+"require_user_pass" = "ต้องการชื่อผู้ใช้และรหัสผ่านเพื่อเข้าสู่ระบบ";
+
+/*---- Account Module ----*/
+"account_detail" = "รายละเอียดลูกค้า";
+"new_account" = "เพิ่มข้อมูลลูกค้าใหม่";
+"edit_account" = "แก้ไขข้อมูลลูกค้า";
+"preview_map" = "สถานที่ตั้ง";
+"Umobile" = "มือถือ";
+"Uwork" = "โทร";
+"Ue_mail" = "อีเมลล์";
+"Ufax" = "แฟกซ์";
+"Uowner" = "ผู้รับผิดชอบ";
+"Uaddress" = "สถานที่ตั้ง";
+"Udescription" = "รายละเอียด";
+"Ucompany_size" = "ขนาดองค์กร";
+"Uregistration" = "จดทะเบียนบริษัท";
+"Uregistered_capital" = "ทุนจดทะเบียน";
+"Unumber_staff" = "จำนวนสมาชิกทั้งหมด";
+"Upayment" = "วิธีการชำระ";
+"Utax_id" = "เลขประจำตัวผู้เสียภาษี";
+"Uold_code" = "รหัสเก่า";
+"Uship_to" = "สถานที่จัดส่ง";
+"Udoc_address" = "ที่อยู่จัดส่งเอกสาร";
+"Umap_location" = "รูปภาพแผนที่";
+"more_info" = "ข้อมูลเพิ่มเติม";
+"add_logo" = "เพิ่มโลโก้";
+"add_map" = "เพิ่มสถานที่ตั้ง";
+"edit_map" = "แก้ไขสถานที่ตั้ง";
+"select_map_image" = "เลือกรูปแผนที่สถานที่ตั้ง";
+"PHcom_en" = "ชื่อบริษัท (EN)";
+"PHcom_th" = "ชื่อบริษัท (TH)";
+"PHgroup" = "กลุ่ม";
+"PHcode" = "รหัส";
+"PHmobile" = "มือถือ";
+"PHwork" = "โทร";
+"PHemail" = "อีเมลล์";
+"PHno" = "เลขที่";
+"PHlane" = "ซอย";
+"PHbuilding" = "อาคาร";
+"PHroad" = "ถนน";
+"PHdistrict" = "เขต/อำเภอ";
+"PHsubdistrict" = "แขวง/ตำบล";
+"PHprovince" = "จังหวัด";
+"PHpost_code" = "รหัสไปรษณีย์";
+"PHcountry" = "ประเทศ";
+"search_place" = "ค้นหาสถานที่ตั้ง";
+"mark_place" = "ชื่อสถานที่ตั้ง";
+"pin" = "เลือก";
+"fax" = "แฟกซ์";
+"com_size" = "ขนาดองค์กร";
+"regist" = "จดทะเบียนบริษัท";
+"regist_cap" = "ทุนจดทะเบียน";
+"number_staff" = "จำนวนสมาชิกทั้งหมด";
+"payment_term" = "วิธีการชำระ";
+"tax_id" = "เลขประจำตัวผู้เสียภาษี";
+"old_code" = "รหัสเก่า";
+"description" = "รายละเอียด";
+"ship_to" = "สถานที่จัดส่ง";
+"doc_address" = "ที่อยู่จัดส่งเอกสาร";
+"search_ship" = "ค้นหาสถานที่จัดส่ง";
+"search_doc" = "ค้นหาที่อยู่จัดส่งเอกสาร";
+"choose_map_image" = "เลือกรูปภาพของสถานที่ตั้ง";
+"add_account_success" = "เพิ่มรายชื่อลูกค้าใหม่สำเร็จ";
+"update_account_success" = "อัพเดตรายชื่อลูกค้าสำเร็จ";
+"delete_account_success" = "ลบรายชื่อลูกค้าสำเร็จ";
+"check_comp_en" = "- จำเป็นต้องใส่ชื่อของบริษัท (th)";
+"check_comp_th" = "- ขำเป็นต้องใส่ชื่อของบริษัท (en)";
+"check_work" = "- จำเป็นต้องใส่เบอร์โทร";
+"check_regist" = "- จำเป็นต้องใส่การจดทะเบียนของบริษัท";
+"check_type" = "- จำเป็นต้องใส่ประเภทของบริษัท";
+"check_group" = "- จำเป็นต้องใส่กลุ่มของบริษัท";

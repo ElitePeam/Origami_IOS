@@ -1,0 +1,88 @@
+PODS:
+  - ADCountryPicker (2.1.0)
+  - DropDown (2.3.13)
+  - Eureka (5.2.1)
+  - FontAwesome.swift (1.9.0)
+  - GoogleMaps (3.9.0):
+    - GoogleMaps/Maps (= 3.9.0)
+  - GoogleMaps/Base (3.9.0)
+  - GoogleMaps/Maps (3.9.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.9.0):
+    - GoogleMaps/Base (= 3.9.0)
+  - NavigationDrawer (1.0.2)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PhoneNumberKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.2.0)
+    - PhoneNumberKit/UIKit (= 3.2.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.2.0)
+  - PhoneNumberKit/UIKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SCLAlertView (0.8)
+  - SideMenu (6.4.8)
+  - SKCountryPicker (1.2.9)
+  - SVProgressHUD (2.2.5)
+  - WeScan (1.5.0)
+  - WMSegmentControl (0.1.16)
+  - YPDrawSignatureView (1.1.2)
+
+DEPENDENCIES:
+  - ADCountryPicker (~> 2.1.0)
+  - DropDown
+  - Eureka
+  - FontAwesome.swift
+  - GoogleMaps
+  - GooglePlaces
+  - NavigationDrawer
+  - NVActivityIndicatorView
+  - PhoneNumberKit (~> 3.1)
+  - SCLAlertView
+  - SideMenu (~> 6.0)
+  - SKCountryPicker
+  - SVProgressHUD
+  - WeScan (>= 0.9)
+  - WMSegmentControl
+  - YPDrawSignatureView
+
+SPEC REPOS:
+  trunk:
+    - ADCountryPicker
+    - DropDown
+    - Eureka
+    - FontAwesome.swift
+    - GoogleMaps
+    - GooglePlaces
+    - NavigationDrawer
+    - NVActivityIndicatorView
+    - PhoneNumberKit
+    - SCLAlertView
+    - SideMenu
+    - SKCountryPicker
+    - SVProgressHUD
+    - WeScan
+    - WMSegmentControl
+    - YPDrawSignatureView
+
+SPEC CHECKSUMS:
+  ADCountryPicker: 502cee76a30ea1c3834eb0df170ce635691655c9
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Eureka: c883105488e05bc65539f583246ecf9657cabbfe
+  FontAwesome.swift: a403b88cec950511745ba8f2decd1b6a07346d13
+  GoogleMaps: 4b5346bddfe6911bb89155d43c903020170523ac
+  GooglePlaces: 1634d019549b969d40fe0ccb0b9513055adebe01
+  NavigationDrawer: 52839d388760436ab3a40dd96938e5df8ef354bb
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PhoneNumberKit: df411d46177d1492da84e10b6c093846dd861452
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SideMenu: 4a891be552d30bb6fa87ad404d62e485f8450c34
+  SKCountryPicker: 7ad1e7dfb482cfb26855e33c2d70dbf1eaf218fe
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  WeScan: b2e47d07f5da3dbf3db14b742e403a8924cf32b2
+  WMSegmentControl: 828fc1c3cdc9be84d4786aa15e61bd03342294ea
+  YPDrawSignatureView: 0ca1cfcd329b9f4bf74172859f80a47a200a0e0d
+
+PODFILE CHECKSUM: e88f78957c530827cb58eb918e48c3b71549d332
+
+COCOAPODS: 1.9.1

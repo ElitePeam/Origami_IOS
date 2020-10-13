@@ -1,0 +1,15 @@
+${PODS_ROOT}/Target Support Files/Pods-NewTest/Pods-NewTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ADCountryPicker/ADCountryPicker.framework
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/Eureka/Eureka.framework
+${BUILT_PRODUCTS_DIR}/FontAwesome.swift/FontAwesome_swift.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/NavigationDrawer/NavigationDrawer.framework
+${BUILT_PRODUCTS_DIR}/PhoneNumberKit/PhoneNumberKit.framework
+${BUILT_PRODUCTS_DIR}/SCLAlertView/SCLAlertView.framework
+${BUILT_PRODUCTS_DIR}/SKCountryPicker/SKCountryPicker.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
+${BUILT_PRODUCTS_DIR}/WMSegmentControl/WMSegmentControl.framework
+${BUILT_PRODUCTS_DIR}/WeScan/WeScan.framework
+${BUILT_PRODUCTS_DIR}/YPDrawSignatureView/YPDrawSignatureView.framework
